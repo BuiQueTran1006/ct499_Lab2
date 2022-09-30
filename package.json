@@ -10,7 +10,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "e.js": "^0.0.2",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mogodb": "^0.0.1-security",
+    "mongodb": "^4.10.0"
   },
   "description": "",
   "devDependencies": {
